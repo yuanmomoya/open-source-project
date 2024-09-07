@@ -1,7 +1,7 @@
 #### 介绍
 图书管理系统-springboot-vue
 
-扫码 发送'books-management-system'有完整资料sql、文档(没有套路)
+扫码 发送'books-management-system'或者'图书管理系统'有完整资料sql、文档(没有套路)
 
 ![weixin](./img/all-info.png)
 
